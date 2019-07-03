@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="23.016168">
+<testcase classname="check cart" name="User moves to cart without adding any item to it" time="23.016168">
+<system-out><![CDATA[Given Alex has registered into TestMeApp....................................passed
+When alex search for particular item like headphone.........................passed
+And try to proceed to payment without adding any item to cart...............passed
+Then TestMeApp does not display cart icon...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
