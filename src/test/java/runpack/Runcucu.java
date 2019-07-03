@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features={"src/test/resources/register.feature"},
-                 glue="stepdefn",plugin="json:target/jsonreport1.json")
+                 glue="stepdefn",plugin="json:target/jsonreport.json")
 public class Runcucu {
 
 }
