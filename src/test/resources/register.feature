@@ -2,7 +2,7 @@ Feature: register to TestMe app
 Scenario: register with valid details
 Given opens TestMeApp
 When the user clicks on signup page
-When user enters username as "frizzwanaa" 
+When user enters username as "frizzwanaaa" 
 When user enters firstname as "fathima" 
 When user enters lastname as "rizwana"
 When user enters password as "frizwana"
