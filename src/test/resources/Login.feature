@@ -8,4 +8,4 @@ Then verify successful login
 
 Examples:
 |uname|password|
-|shwesam|password123|
+|lalitha|password123|
